@@ -117,7 +117,3 @@ Traditional promotion processes often lack transparency and fairness. By leverag
 It highlights **EDA, preprocessing, and predictive modeling expertise** while solving a **real-world business problem**.  
 
 ✨ Developed by **Ansuman Rout** – Passionate about Data Analytics & Data Science!  
-
-
-# 📁 Repository Structure  
-

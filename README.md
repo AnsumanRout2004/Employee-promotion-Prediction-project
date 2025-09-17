@@ -1,6 +1,6 @@
 🧠 Employee Promotion Prediction Project
 
-📌 GitHub Repository Link: 
+📌 GitHub Repository Link : https://github.com/AnsumanRout2004/Employee-promotion-Prediction-project
 
 📌 Project Overview
 

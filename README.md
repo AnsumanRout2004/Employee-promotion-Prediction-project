@@ -1,6 +1,6 @@
 # 🧠 Employee Promotion Prediction Project  
 
-📌 **GitHub Repository Link:** [Employee Promotion Prediction Project](https://github.com/AnsumanRout2004/Employee-promotion-Prediction-project)  
+📌 **GitHub Repository Link:** https://github.com/AnsumanRout2004
 
 ---
 
@@ -113,7 +113,7 @@ Traditional promotion processes often lack transparency and fairness. By leverag
 
 # 🏁 Conclusion  
 
-🚀 This project demonstrates how **machine learning** can be applied in **HR analytics** to ensure **fair, unbiased, and data-driven promotion decisions**.  
+🚀 This project demonstrates how **machine learning** can be applied in **analytics** to ensure **fair, unbiased, and data-driven promotion decisions**.  
 It highlights **EDA, preprocessing, and predictive modeling expertise** while solving a **real-world business problem**.  
 
 ✨ Developed by **Ansuman Rout** – Passionate about Data Analytics & Data Science!  

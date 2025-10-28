@@ -19,7 +19,7 @@ Traditional promotion processes often lack transparency and fairness. By leverag
 - 🐍 **Python** – Data Cleaning, EDA & Modeling  
 - 📊 **Pandas & NumPy** – Data manipulation  
 - 📈 **Matplotlib & Seaborn** – Visualizations  
-- 🤖 **XGBoost** – Machine Learning Model  
+- 🤖 **Decision Tree Classifier** – Machine Learning Model  
 - ⚡ **Scikit-learn** – Model evaluation & metrics  
 
 ---
@@ -41,9 +41,9 @@ Traditional promotion processes often lack transparency and fairness. By leverag
 
 ### 🔹 Step 4: Feature Encoding  
 ✔ Used Label Encoding for categorical features  
-✔ Works effectively for tree-based models like XGBoost  
+✔ Works effectively for tree-based models like Decision Tree Classifier  
 
-### 🔹 Step 5: Model Building (XGBoost)  
+### 🔹 Step 5: Model Building (Decision Tree Classifier)  
 ⚡ Train-Test Split (80:20)  
 ⚡ Model trained & validated on structured data  
 ⚡ Metrics used: Accuracy, Precision, Recall (due to imbalance)  
@@ -61,7 +61,7 @@ Traditional promotion processes often lack transparency and fairness. By leverag
 
 # ✅ Key Features & Insights  
 
-- 📌 Developed **XGBoost ML model** for predicting promotions  
+- 📌 Developed **Decision Tree ML model** for predicting promotions  
 - 📊 Performed **EDA** (bar plots, box plots, heatmaps) to uncover patterns  
 - 🧹 Applied **robust preprocessing** (imputation, encoding, feature selection)  
 - ⚡ Achieved **strong performance** on validation set with imbalanced data  
